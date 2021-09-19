@@ -3,3 +3,4 @@ local/
 plugin-build/
 Rack-SDK/
 osxcross/
+.idea/
